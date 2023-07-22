@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+#part{
+  justify-content: center;
+  align-items: center;
+  
+}
